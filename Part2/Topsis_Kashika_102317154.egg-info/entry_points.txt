@@ -1,2 +1,2 @@
 [console_scripts]
-topsis = Topsis_Tnisha_102303951.topsis:main
+topsis = Topsis_Kashika_102317154.topsis:main
