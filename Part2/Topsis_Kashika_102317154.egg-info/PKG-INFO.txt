@@ -18,4 +18,4 @@ This package implements the TOPSIS (Technique for Order Preference by Similarity
 
 ## Installation
 ```bash
-pip install Topsis-Tnisha-102303951
+pip install Topsis-Kashika-102317154
